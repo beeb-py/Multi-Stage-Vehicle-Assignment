@@ -1,2 +1,2 @@
-# MSVAwESF
-Multi-Stage Vehicle Assignment with Equilibrium Selection Framework
+# Multi-Stage Vehicle Assignment with Equilibrium Selection Framework
+The vehicle-target assignment problem poses significant challenges in multi-agent systems due to the dynamic interactions between agents and the need to optimize for multiple objectives, such as compatibility, fairness, and system-wide utility. We address these challenges by developing a hybrid framework that integrates a multistage stochastic game with an equilibrium selection mechanism. Vehicles are dynamically categorized into types (light and heavy), while targets are assigned heterogeneous types (weak, medium, and strong), reflecting real-world constraints.
